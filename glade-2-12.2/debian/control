@@ -1,0 +1,13 @@
+Source: glade-2
+Section: devel
+Priority: optional
+Maintainer: Kirubakaran Shanmugam <kribakarans@gmail.com>
+Build-Depends: debhelper (>=11~), dh-autoreconf
+Standards-Version: 4.1.4
+Homepage: https://glade.gnome.org
+
+Package: glade-2
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: GUI builder for the GTK and GNOME versions 2.
