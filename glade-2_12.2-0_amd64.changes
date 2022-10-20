@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 20 Oct 2022 22:53:13 +0530
+Source: glade-2
+Binary: glade-2
+Architecture: amd64
+Version: 12.2-0
+Distribution: focal
+Urgency: low
+Maintainer: Kirubakaran Shanmugam <kribakarans@gmail.com>
+Changed-By: Kirubakaran Shanmugam <kribakarans@gmail.com>
+Description:
+ glade-2    - GUI builder for the GTK and GNOME versions 2.
+Changes:
+ glade-2 (12.2-0) focal; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1:
+ 49ff2e8d375cd76a440174460b77563a3cb1d820 1530936 glade-2-dbgsym_12.2-0_amd64.ddeb
+ 09efa0bae35cb74a033f1cfa2e33166ef4d158e2 5413 glade-2_12.2-0_amd64.buildinfo
+ 5aa5bbaf02fd8e48db4fd38ae8bd4d49238cc1a1 989072 glade-2_12.2-0_amd64.deb
+Checksums-Sha256:
+ 595c551c3ad20d12331e275c2dd40a505ecc06a02fe2b84cc9b8ded0bf51f818 1530936 glade-2-dbgsym_12.2-0_amd64.ddeb
+ f4b2e845595896265e821141ba8b60e569654a5ba60518ade6f3cd17b81fb88d 5413 glade-2_12.2-0_amd64.buildinfo
+ 5fd3b5118bd2cd490ba23f4f6d9c0b8e97370e66e689166c6801c049c145d9f9 989072 glade-2_12.2-0_amd64.deb
+Files:
+ a2090404f4277375ae9cfe66ba2643c8 1530936 debug optional glade-2-dbgsym_12.2-0_amd64.ddeb
+ 9b80507d628b3e16fce86a1f548b4aad 5413 devel optional glade-2_12.2-0_amd64.buildinfo
+ 24d9061d4bfbe8b81c7d6b3f617cc816 989072 devel optional glade-2_12.2-0_amd64.deb
